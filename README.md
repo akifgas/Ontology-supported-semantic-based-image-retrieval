@@ -7,6 +7,6 @@
 
 - Trained BiRNN model for Predicate detection
 - Trained Word2vec model for Word Embedding
-- Ontology for Visual Relatiosnhsips structured as: subject-predicate-object
+- Ontology for Visual Relationships structured as: subject-predicate-object
 
 - Source Codes are write using python and can be executed on Google Colab after installing Detectron2 for object detection and loading pre-trained  models that can be find within the folder.
